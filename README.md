@@ -34,6 +34,19 @@ Execute the C Program for the desired output.
 
 ## OUTPUT
 
+1.
+
+![alt text](filecopy1.png)
+
+
+![alt text](filecopy2.png)
+
+
+2. file lock output screenshot
+
+![alt text](filelock.png)
+
+
 
 
 
